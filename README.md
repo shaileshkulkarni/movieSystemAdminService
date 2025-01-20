@@ -1,1 +1,1 @@
-# movieSystemAdminService
+# System Admin service for adding new city, multiplex, movies
